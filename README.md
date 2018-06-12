@@ -24,8 +24,8 @@ Timepicker Filemaker Module
 # 
 # 
 # HISTORY:
-# CREATED: 2017-03-16   Joshua Willing  <http://scr.im/willing>
-UPDATED: 2018-03-16   Joshua Willing  <http://scr.im/willing> only uses global fields. No global variables.
+# CREATED: 2017-03-16   Joshua Willing
+UPDATED: 2018-03-16   Joshua Willing only uses global fields. No global variables.
 # 
 # 
 # 
