@@ -2,12 +2,9 @@
 Timepicker Filemaker Module
 
 
-# TIMEPOP
-
 
 # ABOUT:
 TIMEPOP is a simple filemaker module for setting a time field or variable. It uses an intuitive interface to streamline the user experience. The look and feel are inspired by the JQuery time picker used in javascript apps.
-
 
 
 
@@ -22,17 +19,13 @@ To set variables, just change the OnObjectEnter script parameter to the literal 
 
 
 
-
-
 # HISTORY:
 CREATED: 2017-03-16   Joshua Willing
 UPDATED: 2018-03-16   Joshua Willing only uses global fields. No global variables.
 
 
 
-
 # DEPENDENCIES: 
 none
-
 
 
